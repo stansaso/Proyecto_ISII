@@ -1,0 +1,18 @@
+creando repositorio 
+	cd/directorio_trabajo/mi_proyecto (tienes q estar en la direccion dond se almacenara tu proyecto) 
+	git init 	(creas tu repositorio una sola vez)
+	git status 	(t muestra el estado d tu repositorio puedes aplicar este comando cuantas veces quieras)
+	pwd 		(t muestra la direccion donde t encuentras actualmente aplica este comando cuantas veces quieras)
+commit
+	git add . 	(anade todos tus cambios realizados a tu repositorio local o remoto)
+	git commit -m "mensaje" (guarda todos tus cambios realizados, debes realizar un git add ntes de un git commit)
+
+establecer un repositorio de origen
+	git remote add origin <nombre del repositorio en la nube> (esto solo se lo realiza una vez correctamente)
+	git remote rm origin     //para borrar el origin si es q t equivocaste, y luego lo vuelves a asignar
+
+subir cambios al repositorio en la nube
+	git push origin <nombre del branch> (en este caso siempre sera el branch master)
+
+bajar cambios del repositorio en la nube
+	git pull origin <nombre del branch> (en este caso siempre sera el branch master) 
