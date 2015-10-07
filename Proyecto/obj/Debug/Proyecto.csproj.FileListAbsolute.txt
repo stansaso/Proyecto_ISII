@@ -1,0 +1,52 @@
+C:\Users\pc\AppData\Local\Temporary Projects\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\pc\AppData\Local\Temporary Projects\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\pc\AppData\Local\Temporary Projects\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\Proyecto\bin\Debug\MetroFramework.dll
+C:\Users\pc\AppData\Local\Temporary Projects\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pc\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\pc\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\pc\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\pc\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\pc\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\pc\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.pdb
+E:\Proyecto2015\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+E:\Proyecto2015\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+E:\Proyecto2015\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+E:\Proyecto2015\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+E:\Proyecto2015\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+E:\Proyecto2015\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+E:\Proyecto2015\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+E:\Proyecto2015\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+E:\Proyecto2015\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+E:\Proyecto2015\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+E:\Proyecto2015\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+E:\Proyecto2015\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.pdb
+E:\Proyecto2015\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+E:\Proyecto2015\Proyecto\Proyecto\obj\Debug\Proyecto.ADMINISTRACION.resources
+E:\Proyecto2015\Proyecto\Proyecto\obj\Debug\Proyecto.NuevoCombo.resources
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.pdb
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.NuevoCombo.resources
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.ADMINISTRACION.resources
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+F:\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.pdb
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.NuevoCombo.resources
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.ADMINISTRACION.resources
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\cosas de maria computadora\8VO SEMESTRE\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
